@@ -1,0 +1,6 @@
+//GET http://localhost:8080/api/artists/artists_pageable?page=0&size=3&sortBy=firstname&sortDirection=desc
+
+
+##GET http://localhost:8080/api/artists/artists_pageable?page=2&size=2
+
+GET http://localhost:8080/api/artists/artists_pageable?page=2&size=4&sortBy=firstName
